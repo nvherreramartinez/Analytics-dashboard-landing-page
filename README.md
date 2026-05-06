@@ -110,10 +110,10 @@ El plan gratuito de Firebase no incluye export a BigQuery. Para las necesidades 
 
 > Las capturas muestran la estructura del dashboard con datos anonimizados.
 
-![Resumen general](capturas/dashboard-resumen.png)  
+![Resumen general](dashboard-resumen.png)  
 *Bloque 1: resumen de tráfico, sesiones y usuarios nuevos vs recurrentes*
 
-![Navegación](capturas/dashboard-navegacion.png)  
+![Navegación](dashboard-navegacion.png)  
 *Bloque 2: páginas más vistas, tiempo promedio por página y engagement*
 
 ---
